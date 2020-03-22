@@ -4,7 +4,6 @@ import com.example.springSecurityJWT.Util.JwtUtil;
 import com.example.springSecurityJWT.models.AuthenticationRequest;
 import com.example.springSecurityJWT.models.AuthenticationResponse;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.BadCredentialsException;
